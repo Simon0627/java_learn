@@ -1,0 +1,131 @@
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>story.java
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+--- a/.idea/.name	(revision b665045f874fd822d98a43fbfbdd8b01e4fcf2ed)
++++ b/.idea/.name	(date 1680241385362)
+@@ -1,1 +1,1 @@
+-story.java
+\ No newline at end of file
++dog.java
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"dabaa597-5e9b-48af-8db6-b668e2610d7e\" name=\"变更\" comment=\"重建组织架构\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/story/src/dog.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/story/src/dog.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/story/src/story.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/story/src/story.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"bfcc3544-a33d-4d30-877d-9497b7bcd731\" />\r\n        <option name=\"url\" value=\"https://github.com/Simon0627/java_learn.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2NlTZikqq3fDA4kGSa49VOb4GYs\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;D:/Learning/java_learn&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Learning\\java_learn\\story\\src\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"应用程序级\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"默认任务\">\r\n      <changelist id=\"dabaa597-5e9b-48af-8db6-b668e2610d7e\" name=\"变更\" comment=\"\" />\r\n      <created>1680237728362</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1680237728362</updated>\r\n      <workItem from=\"1680237729389\" duration=\"845000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"重建组织架构\">\r\n      <created>1680238075513</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680238075513</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"重建组织架构\">\r\n      <created>1680238183612</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1680238183612</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"重建组织架构\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"重建组织架构\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b665045f874fd822d98a43fbfbdd8b01e4fcf2ed)
++++ b/.idea/workspace.xml	(date 1680241320532)
+@@ -4,10 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="dabaa597-5e9b-48af-8db6-b668e2610d7e" name="变更" comment="重建组织架构">
++    <list default="true" id="dabaa597-5e9b-48af-8db6-b668e2610d7e" name="变更" comment="增加随机函数，使snoopy的反应有随机性">
++      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/story/src/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/story/src/dog.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/story/src/story.java" beforeDir="false" afterPath="$PROJECT_DIR$/story/src/story.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -21,6 +21,21 @@
+       </list>
+     </option>
+   </component>
++  <component name="Git.Settings">
++    <excluded-from-favorite>
++      <branch-storage>
++        <map>
++          <entry type="REMOTE">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$/.." source="origin/master" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </excluded-from-favorite>
++  </component>
+   <component name="GitHubPullRequestSearchHistory">{
+   &quot;lastFilter&quot;: {
+     &quot;state&quot;: &quot;OPEN&quot;
+@@ -34,6 +49,9 @@
+       </UrlAndAccount>
+     </option>
+   </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/story/src/story.java" root0="FORCE_HIGHLIGHTING" />
++  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+@@ -75,6 +93,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1680237728362</updated>
+       <workItem from="1680237729389" duration="845000" />
++      <workItem from="1680241003037" duration="315000" />
+     </task>
+     <task id="LOCAL-00001" summary="重建组织架构">
+       <created>1680238075513</created>
+@@ -90,7 +109,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1680238183612</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="增加随机函数，使snoopy的反应有随机性">
++      <created>1680239740708</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1680239740708</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -107,7 +133,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="master" />
++                        <option value="origin/master" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -121,6 +147,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="重建组织架构" />
+-    <option name="LAST_COMMIT_MESSAGE" value="重建组织架构" />
++    <MESSAGE value="增加随机函数，使snoopy的反应有随机性" />
++    <option name="LAST_COMMIT_MESSAGE" value="增加随机函数，使snoopy的反应有随机性" />
++    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: ../.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>/c_learn/\r\n/digital test/\r\n/go_learn/\r\n/html_learn/\r\n/note/\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.gitignore b/../.gitignore
+--- a/../.gitignore	(revision b665045f874fd822d98a43fbfbdd8b01e4fcf2ed)
++++ b/../.gitignore	(date 1680241252214)
+@@ -3,3 +3,4 @@
+ /go_learn/
+ /html_learn/
+ /note/
++/java_learn/.idea/
+\ No newline at end of file
